@@ -17,7 +17,7 @@
 
 # Hi, I'm Carlos Freitas :rocket::rocket::rocket:
 
-I have been in the information technology field for over 23 years and have worked in several market segments. I have experience with several programming languages, but I have really enjoyed programming with GoLang. My main area of ​​expertise is in cloud computing infrastructure.
+I have been in the information technology field for over 23 years and have worked in several market segments. I have experience with several programming languages, but I have really enjoyed programming with GoLang. My main area of ​​expertise is in cloud computing infrastructure. I currently work as an SRE helping companies deliver the best to their customers.:rocket:
 
 
 ## Some Projects
