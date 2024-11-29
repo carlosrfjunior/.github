@@ -21,7 +21,7 @@
 </picture>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=Hi%2C+I'm+Carlos+Freitas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=Hi%2C+I'm+Carlos+Freitas;Here+you+will+find+topics+related+to;SRE%2C+DevOps+and+Cloud+Platforms)](https://git.io/typing-svg)
 
 I have been in the information technology field for over 23 years and have worked in several market segments. I have experience with several programming languages, but I have really enjoyed programming with GoLang. My main area of ​​expertise is in cloud computing infrastructure. I currently work as an SRE helping companies deliver the best to their customers.  :rocket::rocket::rocket:
 
