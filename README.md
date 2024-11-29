@@ -27,8 +27,8 @@ I have been in the information technology field for over 23 years and have worke
 
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,git,github,githubactions,kubernetes,docker,prometheus,terraform,cloudflare,nginx,,vim,bash,shell,linux,py,mongodb,mysql,go,java,jenkins,ubuntu,redhat,debian,windows,redis,elasticsearch,rabbitmq,yarn,nodejs,npm,dart,flutter,php,powershell,vscode,visualstudio" />
+  <a href="https://github.com/carlosrfjunior/carlosrfjunior">
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,git,github,githubactions,kubernetes,docker,prometheus,terraform,cloudflare,nginx,vim,bash,linux,py,mongodb,mysql,go,java,jenkins,ubuntu,redhat,debian,windows,redis,elasticsearch,rabbitmq,yarn,nodejs,npm,dart,flutter,php,powershell,vscode,visualstudio" />
   </a>
 </p>
 
