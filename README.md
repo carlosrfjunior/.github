@@ -17,7 +17,7 @@
 
 # Hi, I'm Carlos Freitas :rocket::rocket::rocket:
 
-I have been in the information technology field for over 23 years and have worked in several market segments. I have experience with several programming languages, but I have really enjoyed programming with GoLang. My main area of ​​expertise is in cloud computing infrastructure. I currently work as an SRE helping companies deliver the best to their customers.:rocket:
+I have been in the information technology field for over 23 years and have worked in several market segments. I have experience with several programming languages, but I have really enjoyed programming with GoLang. My main area of ​​expertise is in cloud computing infrastructure. I currently work as an SRE helping companies deliver the best to their customers. :rocket:
 
 
 ## Some Projects
@@ -75,22 +75,23 @@ I have been in the information technology field for over 23 years and have worke
 - https://github.com/carlosrfjunior?tab=repositories
 - https://github.com/orgs/toolsascode/repositories
 
-------
 
+<table>
+<tr>
+  <td>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrfjunior&show_icons=true&theme=transparent&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrfjunior&show_icons=true&theme=transparent&layout=donut&langs_count=20"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrfjunior&show_icons=true&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrfjunior&show_icons=true&layout=donut&langs_count=20"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrfjunior&show_icons=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrfjunior&show_icons=true&layout=donut&langs_count=20" />
 </picture>
-
--------
-
+</td>
+  <td style="text-align: center;">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=carlosrfjunior&show_icons=true&theme=transparent&rank_icon=github"
@@ -102,3 +103,6 @@ I have been in the information technology field for over 23 years and have worke
   />
   <img src="https://github-readme-stats.vercel.app/api?username=carlosrfjunior&show_icons=true&rank_icon=github" />
 </picture>
+    </td>
+</tr>
+</table>
