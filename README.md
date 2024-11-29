@@ -1,5 +1,10 @@
-<p align="center"><a href="https://github.com/toolsascode"><image src="https://raw.githubusercontent.com/toolsascode/protomagic/main/assets/protomagic.png" style="width: 100px;"></a></p>
+<p align="center">
+<a href="https://github.com/toolsascode">
+<image src="./assets/gopher-iron-man-flying.png" style="width: 200px;"/>
+</a>
+</p>
 
+<p align="center">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -14,11 +19,18 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+</p>
 
-# Hi, I'm Carlos Freitas :rocket::rocket::rocket:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=Hi%2C+I'm+Carlos+Freitas)](https://git.io/typing-svg)
 
-I have been in the information technology field for over 23 years and have worked in several market segments. I have experience with several programming languages, but I have really enjoyed programming with GoLang. My main area of ​​expertise is in cloud computing infrastructure. I currently work as an SRE helping companies deliver the best to their customers. :rocket:
+I have been in the information technology field for over 23 years and have worked in several market segments. I have experience with several programming languages, but I have really enjoyed programming with GoLang. My main area of ​​expertise is in cloud computing infrastructure. I currently work as an SRE helping companies deliver the best to their customers.  :rocket::rocket::rocket:
 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,git,github,githubactions,kubernetes,docker,prometheus,terraform,cloudflare,nginx,,vim,bash,shell,linux,py,mongodb,mysql,go,java,jenkins,ubuntu,redhat,debian,windows,redis,elasticsearch,rabbitmq,yarn,nodejs,npm,dart,flutter,php,powershell,vscode,visualstudio" />
+  </a>
+</p>
 
 ## Some Projects
 
