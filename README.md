@@ -32,6 +32,9 @@ I have been in the information technology field for over 23 years and have worke
   </a>
 </p>
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/carlosrfjunior) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlosrfjunior) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/carlosrfjunior) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/carlosrfjunior) 
+
 ## Some Projects
 
 <picture>
@@ -117,4 +120,25 @@ I have been in the information technology field for over 23 years and have worke
 </picture>
     </td>
 </tr>
+
+<tr>
+  <td colspan="2" style="text-align: center;">
+<picture>
+  <source
+    srcset="https://github-contributor-stats.vercel.app/api?username=carlosrfjunior&limit=5&theme=transparent&combine_all_yearly_contributions=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-contributor-stats.vercel.app/api?username=carlosrfjunior&limit=5&theme=light&combine_all_yearly_contributions=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-contributor-stats.vercel.app/api?username=carlosrfjunior&limit=5&combine_all_yearly_contributions=true" />
+</picture>
+    </td>
+</tr>
 </table>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=carlosrfjunior&label=V&&pretty=true)](https://visitcount.itsvg.in)
+
