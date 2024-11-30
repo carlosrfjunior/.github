@@ -33,7 +33,7 @@ I have been in the information technology field for over 23 years and have worke
 </p>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/carlosrfjunior) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlosrfjunior) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/carlosrfjunior) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/carlosrfjunior) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/carlosrfjunior) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlosrfjunior) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9194153/carlosrfjunior) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/carlosrfjunior) 
 
 ## Some Projects
 
